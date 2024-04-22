@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'fondo1';
+    src: url('../../css/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');  
+}
+
+body {
+    font-family: 'fondo1', sans-serif;
+    font-size: xx-large;
+}

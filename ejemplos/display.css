@@ -1,0 +1,27 @@
+.contenedor {
+    display: flex;
+}
+
+.bloque1{
+    background-color: aqua;
+    width: 250px;
+    height: 200px;
+}
+
+.bloque2{
+    background-color:yellow;
+    width: 250px;
+    height: 200px;
+}
+
+.bloque3{
+    background-color: red;
+    width: 250px;
+    height: 200px;
+}
+
+#lista1 {
+    display: flex;
+    list-style-type: none;
+}
+
